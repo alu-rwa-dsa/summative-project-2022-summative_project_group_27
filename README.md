@@ -2,7 +2,9 @@
 
 Dera's Car Wash Management System is a simple app with a TKinter GUI.
 It allows users to add cars to the queue, remove, check finances (of each car washed),
-and exit the app with the data saved.
+and exit the app with the data saved. This app is beneficial to everyday small businesses that have a need for 
+tracking orders and updating processes. The solution is designed not only to be user friendly but can be implemented
+across other services asides a car wash system (restaurants for example), with changing a few lines of code.
 
 ![](assets/logo.png)
 
