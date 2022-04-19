@@ -6,6 +6,10 @@ and exit the app with the data saved. This app is beneficial to everyday small b
 tracking orders and updating processes. The solution is designed not only to be user friendly but can be implemented
 across other services asides a car wash system (restaurants for example), with changing a few lines of code.
 
+## Watch Video Here:
+
+![](presentation/presentation.mp4)
+
 ![](assets/logo.png)
 
 ## Functionalities
